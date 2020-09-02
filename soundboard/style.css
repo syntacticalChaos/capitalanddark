@@ -1,0 +1,23 @@
+
+body {
+  background-color: #00FF00;
+    margin-left: 0%;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-top: auto;
+    font-family: "Helvetica", sans-serif;
+    font-size: 15em;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+div {
+    outline-color: aqua;
+    box-shadow: 50px 50px 500px "000000";
+    letter-spacing: inherit;
+    line-height: normal;
+    text-shadow: 5px 5px 5px #333302;
+    color: rgba(55, 40, 60, 100);
+
+
+}
