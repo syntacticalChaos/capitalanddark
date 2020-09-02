@@ -1,2 +1,2 @@
-# bb_gen
-bb_gen is a sampler in a browser
+# capital and darkness soundboard / sampler /synth
+browser based sampler 
